@@ -39,9 +39,9 @@
 - [GitLab Design System - Pajamas](https://design.gitlab.com/). Resources, components, and design guidelines behind GitLab.
 - [Firefox Photon Design System](https://design.firefox.com/photon). Launch recognizable, enjoyable Firefox products and features faster.
 
-- [Atlassian Design Guidelines](https://atlassian.design/).End-to-end design language to create straightforward and beautiful experiences.
+- [Atlassian Design Guidelines](https://atlassian.design/). End-to-end design language to create straightforward and beautiful experiences.
 
-See more design systems [here](https://github.com/alexpate/awesome-design-systems)! :octocat:
+See more design systems [here](https://github.com/alexpate/awesome-design-systems)!
 
 **Articles**
 
@@ -71,8 +71,6 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 
 - [Design system checklist](https://designsystemchecklist.com/). Build better design systems. An open-source checklist to help you plan, build and grow your design system.
 
-Get started
-
 ## :art: UI Design tools
 
 **UI Tools**
@@ -83,7 +81,7 @@ Get started
 
 - [InVision](https://www.invisionapp.com/). The digital product design platform powering the world’s best user experiences
 
-See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)! :octocat:
+See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
 **Integrations**
 
