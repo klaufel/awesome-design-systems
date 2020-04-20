@@ -11,20 +11,20 @@
 </p>
 
 <p align="center">
-  <a href="#fire-overview">Design systems</a> •
-  <a href="#rocket-getting-started">Design tools</a> •
-  <a href="#triangular_ruler-architecture">Design tokens</a> •
-  <a href="#pray-testing-the-application">Pattern library</a> •
-  <a href="#pray-testing-the-application">Testing</a> •
-  <a href="#pray-testing-the-application">Books</a> •
-  <a href="#pray-testing-the-application">Talks</a>
+  <a href="#sunrise-design-systems">Design systems</a> •
+  <a href="#art-ui-design-tools">UI Design tools</a> •
+  <a href="#nail_care-design-tokens">Design tokens</a> •
+  <a href="#package-pattern-library">Pattern library</a> •
+  <a href="#pray-testing">Testing</a> •
+  <a href="#books-books">Books</a> •
+  <a href="#video_camera-talks">Talks</a>
 </p>
 
 ---
 
 > A Design System is an ever evolving collection of reusable components, guided by rules that ensure consistency and speed, by being the single source of truth for any product development.
 
-## 🧱 Design systems
+## :sunrise: Design systems
 
 **Design systems of some "knows" companies:**
 
@@ -41,7 +41,7 @@
 
 - [Atlassian Design Guidelines](https://atlassian.design/).End-to-end design language to create straightforward and beautiful experiences.
 
-See more design systems [here](https://github.com/alexpate/awesome-design-systems)!
+See more design systems [here](https://github.com/alexpate/awesome-design-systems)! :octocat:
 
 **Articles**
 
@@ -73,9 +73,9 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 
 Get started
 
-## 🎨 Design tools
+## :art: UI Design tools
 
-**Tools**
+**UI Tools**
 
 - [Figma](https://www.figma.com/). Helps teams create, test, and ship better designs from start to finish (crossplattform).
 
@@ -83,7 +83,7 @@ Get started
 
 - [InVision](https://www.invisionapp.com/). The digital product design platform powering the world’s best user experiences
 
-See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
+See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)! :octocat:
 
 **Integrations**
 
@@ -109,16 +109,18 @@ _Your favicons are important_ :)
 
 - [Favicon generator](https://realfavicongenerator.net/). Generate favicons for all browsers and platforms
 
-## 🧩 Design tokens
+## :nail_care: Design tokens
 
-- [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/). View repository on GitHub [here](https://github.com/design-tokens/community-group) :octocat:!
+- [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/). View repository on GitHub [here](https://github.com/design-tokens/community-group)! :octocat:
 
 * [DesignTokens.dev](https://www.designtokens.dev/). Ship your design tokens without managing infrastructure
 
 **Plugins**
 
 - [Design Tokens (Sketch)](https://andreask.design/design-tokens/)
+
 - [Zeplin JSON export tokens](https://extensions.zeplin.io/berk/zeplin-json-extension)
+
 - [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect) :octocat:
 
 **Tools:**
@@ -150,10 +152,9 @@ _Your favicons are important_ :)
 - [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 
 See more design tokens info [here](https://github.com/sturobson/
+Awesome-Design-Tokens)! :octocat:
 
-Awesome-Design-Tokens)!
-
-## 📦 Pattern library
+## :package: Pattern library
 
 **Styleguides and documentation:**
 
@@ -161,27 +162,29 @@ Awesome-Design-Tokens)!
 
 **Develop isolated components**
 
-- [Storybook](https://storybook.js.org/). Build bulletproof UI components faster. Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. _View addons👇_
+- [Storybook](https://storybook.js.org/). Build bulletproof UI components faster. Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient.
 
-- - [Knobs](https://github.com/storybookjs/storybook/tree/master/addons/knobs) :octocat:. Interact with component inputs dynamically in the Storybook UI.
+_Storybook addons_
 
-- - [Actions](https://github.com/storybookjs/storybook/tree/master/addons/actions) :octocat:. Get UI feedback when an action is performed on an interactive element.
+- [Knobs](https://github.com/storybookjs/storybook/tree/master/addons/knobs) :octocat:. Interact with component inputs dynamically in the Storybook UI.
 
-- - [Source](https://github.com/storybookjs/storybook/tree/master/addons/storysource) :octocat:. View a story’s source code to see how it works and paste into your app.
+- [Actions](https://github.com/storybookjs/storybook/tree/master/addons/actions) :octocat:. Get UI feedback when an action is performed on an interactive element.
 
-- - [Docs](https://github.com/storybookjs/storybook/tree/master/addons/docs) :octocat:. Document component usage and properties in Markdown.
+- [Source](https://github.com/storybookjs/storybook/tree/master/addons/storysource) :octocat:. View a story’s source code to see how it works and paste into your app.
 
-- - [Viewport](https://github.com/storybookjs/storybook/tree/master/addons/viewport) :octocat:. Build responsive components by adjusting Storybook’s viewport size and orientation.
+- [Docs](https://github.com/storybookjs/storybook/tree/master/addons/docs) :octocat:. Document component usage and properties in Markdown.
 
-- - [Storyshots](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) :octocat:. Take a code snapshot of every story automatically with Jest.
+- [Viewport](https://github.com/storybookjs/storybook/tree/master/addons/viewport) :octocat:. Build responsive components by adjusting Storybook’s viewport size and orientation.
 
-- - [Backgrounds](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) :octocat:. Switch backgrounds to view components in different settings.
+- [Storyshots](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) :octocat:. Take a code snapshot of every story automatically with Jest.
 
-- - [Accessibility](https://github.com/storybookjs/storybook/tree/master/addons/a11y) :octocat:. Test component compliance with web accessibility standards.
+- [Backgrounds](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) :octocat:. Switch backgrounds to view components in different settings.
 
-- - [Console](https://github.com/storybookjs/storybook-addon-console) :octocat:. Show console output like logs, errors, and warnings in the Storybook.
+- [Accessibility](https://github.com/storybookjs/storybook/tree/master/addons/a11y) :octocat:. Test component compliance with web accessibility standards.
 
-- - [Links](https://github.com/storybookjs/storybook/tree/master/addons/links) :octocat:. Link stories together to build demos and prototypes with your UI components.
+- [Console](https://github.com/storybookjs/storybook-addon-console) :octocat:. Show console output like logs, errors, and warnings in the Storybook.
+
+- [Links](https://github.com/storybookjs/storybook/tree/master/addons/links) :octocat:. Link stories together to build demos and prototypes with your UI components.
 
 **Articles**
 
@@ -201,7 +204,7 @@ Awesome-Design-Tokens)!
 
 - [Bundlephobia](https://bundlephobia.com/). Find the cost of adding a npm package to your bundle.
 
-## 🙏 Testing
+## :pray: Testing
 
 **Unit & Regression test**
 
@@ -209,7 +212,7 @@ Awesome-Design-Tokens)!
 
 - [Chromatic](https://www.chromaticqa.com/). Visual testing for React, Angular and Vue. Chromatic ensures consistency in UI components, down to the pixel. Every commit is automatically tested for visual changes in the cloud.
 
-## 📚 Books
+## :books: Books
 
 - [Design systems](https://www.smashingmagazine.com/design-systems-book/). A practical guide to creating design languages for digital products by Alla Kholmatova (Smashing Magazine).
 
@@ -223,7 +226,7 @@ Awesome-Design-Tokens)!
 
 - [Front-End Style Guides](https://www.maban.co.uk/projects/front-end-style-guides/). Creating and maintaining style guides for websites by Anna Debenham.
 
-## 📹 Talks
+## :video_camera: Talks
 
 - [Design Systems - The State of the Web](https://www.youtube.com/watch?v=jpmeWXISU5E). Rick chats with Adam Argyle (Design Advocate at Google) about the role of design systems in modern web development and how they can change the dynamics between designer and developer. Adam also talks about his tool VisBug and how it “makes any webpage feel like an artboard”.
 
