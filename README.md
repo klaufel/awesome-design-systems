@@ -244,4 +244,4 @@ _Storybook addons_
 
 ---
 
-Know a resource that isn't listed below? Feel free to add something interesting by [pull request](https://github.com/klaufel/awesome-design-systems/pulls) :octocat:.
+Know a resource that isn't listed below? Feel free to add something interesting by [pull request](https://github.com/klaufel/awesome-design-system/pulls) :octocat:.
