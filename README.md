@@ -45,6 +45,8 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 
 **Articles**
 
+- [How Spotify organises work in Figma to improve collaboration](https://spotify.design/articles/2020-04-20/how-spotify-works-in-figma/)
+
 - [Design Systems vs. Pattern Libraries vs. Style Guides – What’s the Difference?](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
 
 - [Your sketch library is not a design system](https://bradfrost.com/blog/post/your-sketch-library-is-not-a-design-system/)
