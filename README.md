@@ -2,7 +2,7 @@
  Awesome Design System
 </h1>
 
-<p align="center">A collection of bookmarks, resources, articles of design systems focused on developers.</p>
+<p align="center">A collection of bookmarks, resources and articles of design systems focused on developers.</p>
 
 <p align="center">
   <a href="https://awesome.re">
@@ -99,6 +99,8 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 
 - [Accessibility for developeres](https://www.invisionapp.com/inside-design/accessibility-for-developers/)
 
+- [The A11Y Project](https://a11yproject.com/). A community-driven effort to make web accessibility easier. See [resources](https://a11yproject.com/resources/) section.
+
 **Articles**
 
 - [Adobe XD vs Sketch vs Figma vs InVision - How to Pick the Best Design Software in 2020](https://www.freecodecamp.org/news/adobe-xd-vs-sketch-vs-figma-vs-invision/)
@@ -162,6 +164,10 @@ Awesome-Design-Tokens)! :octocat:
 
 **Develop isolated components**
 
+- [Pattern Lab](https://patternlab.io/). Pattern Lab helps you and your team build thoughtful, pattern-driven user interfaces using atomic design principles.
+
+- [React Styleguidist](https://react-styleguidist.js.org/). Isolated React component development environment with a living style guide.
+
 - [Storybook](https://storybook.js.org/). Build bulletproof UI components faster. Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient.
 
 _Storybook addons_
@@ -185,6 +191,8 @@ _Storybook addons_
 - [Console](https://github.com/storybookjs/storybook-addon-console) :octocat:. Show console output like logs, errors, and warnings in the Storybook.
 
 - [Links](https://github.com/storybookjs/storybook/tree/master/addons/links) :octocat:. Link stories together to build demos and prototypes with your UI components.
+
+More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 
 **Articles**
 
