@@ -228,17 +228,17 @@ _Storybook addons_
 
 ## :video_camera: Talks
 
-- [Design Systems - The State of the Web](https://www.youtube.com/watch?v=jpmeWXISU5E). Rick chats with Adam Argyle (Design Advocate at Google) about the role of design systems in modern web development and how they can change the dynamics between designer and developer. Adam also talks about his tool VisBug and how it “makes any webpage feel like an artboard”.
+- [Design Systems - The State of the Web](https://www.youtube.com/watch?v=jpmeWXISU5E). Adam Argyle (Design Advocate at Google) - Conversation about the role of design systems in modern web development and how they can change the dynamics between designer and developer.
 
-- [Jina Anne - Designing a Design System](https://youtu.be/7hYOLLO2gc4). Jina, a Lead Designer on the Design Systems team at Salesforce UX, will share strategies for how to approach, design and build an effective design system; how to successfully maintain the system to ensure ongoing usefulness; elements that design systems need to be sustainable that are critical for success.
+- [Jina Anne - Designing a Design System](https://youtu.be/7hYOLLO2gc4). Jina (Lead Designer on the Design Systems team at Salesforce UX) - Will share strategies for how to approach, design and build an effective design system; how to successfully maintain the system to ensure ongoing usefulness.
 
-- [Maintaining Design Systems](https://aneventapart.com/news/post/maintaining-design-systems-by-brad-frost-aea-video). Front-end designer Brad Frost helps you learn how to keep your system and the products it serves in sync and understand how to maintain and evolve your design system to give your users get the best possible experience.
+- [Maintaining Design Systems](https://aneventapart.com/news/post/maintaining-design-systems-by-brad-frost-aea-video). Brad Frost (Front-end designer) - Helps you learn how to keep your system and the products it serves in sync and understand how to maintain and evolve your design system to give your users get the best possible experience.
 
-- [Design Processes & Systems in Craft](https://dotall.com/sessions/design-processes-systems-in-craft). Design shouldn’t be a siloed practice, but a collaborative effort rooted in process. How do we get there? In this session, we’ll look at how we can reframe our design approach to be more human-centric and systems-minded. We’ll look at each step of the process, through the lens of real world examples, to explore how we can cultivate design thinking within multidisciplinary teams to solve complex problems. And how CraftCMS is uniquely suited to drive this forward on the web!
+- [Design Processes & Systems in Craft](https://dotall.com/sessions/design-processes-systems-in-craft). Courtney Bradford. Design shouldn’t be a siloed practice, but a collaborative effort rooted in process. How do we get there? In this session, we’ll look at how we can reframe our design approach to be more human-centric and systems-minded.
 
-- [Introducing Design Systems Into Chaos](https://youtu.be/FZSi1bK-BRM). Design Systems Lead at GitHub Diana Mounter shares practical examples on where to begin to set up a design system, what to prioritize, and how to make a big impact to customers and colleagues, to help you introduce systems that bring order to chaos.
+- [Introducing Design Systems Into Chaos](https://youtu.be/FZSi1bK-BRM). Diana Mounter (Design Systems Lead at GitHub). Shares practical examples on where to begin to set up a design system, what to prioritize, and how to make a big impact to customers and colleagues, to help you introduce systems that bring order to chaos.
 
-- [Building Accessible Interfaces: Patterns And Techniques](https://vimeo.com/331530115). In this session, Sara will be building and refactoring common UI components, and share a couple of techniques she often uses to build with accessibility in mind. Even though she will be building only as many patterns as the time allows, you’ll leave with many small but important and impactful strategies that you can apply to many other UI components, as well as to your design process and coding. From this sweet series of mini component-level case studies, you will learn how to think, and code, accessibly.
+- [Building Accessible Interfaces: Patterns And Techniques](https://vimeo.com/331530115). Sara Soueidan. Will be building and refactoring common UI components, and share a couple of techniques she often uses to build with accessibility in mind
 
 - [How To Build a Design System | UXPin](https://www.youtube.com/watch?v=h0MqkRJdaao). Will teach you how to build a UX Design System using the UX Pin prototyping & design platform.
 
