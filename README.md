@@ -115,7 +115,7 @@ _Your favicons are important_ :)
 
 - [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/). View repository on GitHub [here](https://github.com/design-tokens/community-group)! :octocat:
 
-- [https://diez.org/](https://diez.org/). Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
+- [Diez](https://diez.org/). Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
 
 - [DesignTokens.dev](https://www.designtokens.dev/). Ship your design tokens without managing infrastructure
 
