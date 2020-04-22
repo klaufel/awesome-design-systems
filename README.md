@@ -157,8 +157,7 @@ _Your favicons are important_ :)
 
 - [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 
-See more design tokens info [here](https://github.com/sturobson/
-Awesome-Design-Tokens)! :octocat:
+See more design tokens info [here](https://github.com/sturobson/Awesome-Design-Tokens)! :octocat:
 
 ## :package: Pattern library
 
