@@ -115,7 +115,9 @@ _Your favicons are important_ :)
 
 - [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/). View repository on GitHub [here](https://github.com/design-tokens/community-group)! :octocat:
 
-* [DesignTokens.dev](https://www.designtokens.dev/). Ship your design tokens without managing infrastructure
+- [https://diez.org/](https://diez.org/). Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
+
+- [DesignTokens.dev](https://www.designtokens.dev/). Ship your design tokens without managing infrastructure
 
 **Plugins**
 
@@ -161,6 +163,8 @@ Awesome-Design-Tokens)! :octocat:
 **Styleguides and documentation:**
 
 - [Zeroheight](https://zeroheight.com/). Create beautiful living styleguides and document all your design system resources in one place. _[Learn about this](https://medium.com/zeroheight/zeroheight-3-0-b6643c347596)_.
+
+- [Stencil](https://stenciljs.com/). Toolchain for building reusable, scalable Design Systems.
 
 **Develop isolated components**
 
