@@ -243,6 +243,10 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 
 ## :video_camera: Talks
 
+- [Design Systems](https://youtu.be/K8MF3aDg-bM?t=4750). [Neha Sharma](https://twitter.com/hellonehha) at Women of React conf.
+
+- [Level up your Design System with styled-system](https://youtu.be/K8MF3aDg-bM?t=7280). [Taley'a Mirza](https://twitter.com/TaleyaMirza) at Women of React conf.
+
 - [Design Systems - The State of the Web](https://www.youtube.com/watch?v=jpmeWXISU5E). Adam Argyle (Design Advocate at Google) - Conversation about the role of design systems in modern web development and how they can change the dynamics between designer and developer.
 
 - [Jina Anne - Designing a Design System](https://youtu.be/7hYOLLO2gc4). Jina (Lead Designer on the Design Systems team at Salesforce UX) - Will share strategies for how to approach, design and build an effective design system; how to successfully maintain the system to ensure ongoing usefulness.
