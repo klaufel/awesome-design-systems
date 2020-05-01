@@ -173,6 +173,8 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 
 - [React Styleguidist](https://react-styleguidist.js.org/). Isolated React component development environment with a living style guide.
 
+- [Styled System](https://styled-system.com/). Styled System is a collection of utility functions that add style props to your React components and allows you to control styles based on a global theme object.
+
 - [Storybook](https://storybook.js.org/). Build bulletproof UI components faster. Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient.
 
 _Storybook addons_
