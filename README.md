@@ -112,6 +112,11 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 _Your favicons are important_ :)
 
 - [Favicon generator](https://realfavicongenerator.net/). Generate favicons for all browsers and platforms
+- [unDraw](https://undraw.co/). Open source illustrations.
+
+- [Carbon](https://carbon.now.sh/). For creating and sharing styled images of your source code.
+
+
 
 ## :nail_care: Design tokens
 
