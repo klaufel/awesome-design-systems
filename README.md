@@ -107,12 +107,6 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 
 - [Adobe XD vs Sketch vs Figma vs InVision - How to Pick the Best Design Software in 2020](https://www.freecodecamp.org/news/adobe-xd-vs-sketch-vs-figma-vs-invision/)
 
-**Misc**
-
-_Your favicons are important_ :)
-
-- [Favicon generator](https://realfavicongenerator.net/). Generate favicons for all browsers and platforms
-
 ## :nail_care: Design tokens
 
 - [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/). View repository on GitHub [here](https://github.com/design-tokens/community-group)! :octocat:
