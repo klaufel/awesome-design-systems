@@ -131,6 +131,8 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 
 - [Style Dictionary](https://github.com/amzn/style-dictionary) :octocat:. A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 
+- [Figmagic](https://github.com/mikaelvesavuori/figmagic) :octocat:. Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
+
 **Articles**
 
 - [A designer’s guide to the Figma API](https://medium.com/@danhollick/a-designers-guide-to-the-figma-api-64f2785969d8)
