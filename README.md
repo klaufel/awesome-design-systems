@@ -1,6 +1,6 @@
-# Awesome design system [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome design systems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of bookmarks, resources and articles of design systems focused on developers.
+> A curated list of bookmarks, resources and articles about design systems focused on developers.
 
 ## Contents
 
@@ -16,7 +16,7 @@
 
 A Design System is an ever evolving collection of reusable components, guided by rules that ensure consistency and speed, by being the single source of truth for any product development.
 
-### Design systems of some "knows" companies
+### Design systems of some "known" companies
 
 - [Atlassian Design Guidelines](https://atlassian.design/) - End-to-end design language to create straightforward and beautiful experiences.
 - [Firefox Photon Design System](https://design.firefox.com/photon) - Launch recognizable, enjoyable Firefox products and features faster.
@@ -51,9 +51,9 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 
 ### Design tools
 
-- [Figma](https://www.figma.com/) - Helps teams create, test, and ship better designs from start to finish (crossplattform) -
-- [InVision](https://www.invisionapp.com/) - The digital product design platform powering the world’s best user experiences
-- [Sketch](https://www.sketch.com/) - A design toolkit built to help you create your best work from your earliest ideas, through to final artwork (for macOS) -
+- [Figma](https://www.figma.com/) - Helps teams create, test, and ship better designs from start to finish (cross-platform).
+- [InVision](https://www.invisionapp.com/) - The digital product design platform powering the world’s best user experiences.
+- [Sketch](https://www.sketch.com/) - A design toolkit built to help you create your best work from your earliest ideas, through to final artwork (for macOS).
 
 See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
