@@ -14,7 +14,9 @@
 
 ## Design systems
 
-Design systems of some "knows" companies:
+A Design System is an ever evolving collection of reusable components, guided by rules that ensure consistency and speed, by being the single source of truth for any product development.
+
+### Design systems of some "knows" companies
 
 - [Atlassian Design Guidelines](https://atlassian.design/) - End-to-end design language to create straightforward and beautiful experiences.
 - [Firefox Photon Design System](https://design.firefox.com/photon) - Launch recognizable, enjoyable Firefox products and features faster.
