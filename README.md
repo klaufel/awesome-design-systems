@@ -70,11 +70,11 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 - [Stark](https://www.getstark.co/) - Eempowers you to design with accessibility in mind from conception of brand to fruition of product. Contrast checker, colorblind simulation and color suggestions.
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier. See [resources](https://a11yproject.com/resources/) section.
 
-### Articles
+### Articles
 
 - [Adobe XD vs Sketch vs Figma vs InVision - How to Pick the Best Design Software in 2020](https://www.freecodecamp.org/news/adobe-xd-vs-sketch-vs-figma-vs-invision/)
 
-## Design tokens
+## Design tokens
 
 - [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here](https://github.com/design-tokens/community-group)!
 - [DesignTokens.dev](https://www.designtokens.dev/) - Ship your design tokens without managing infrastructure
@@ -86,14 +86,14 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 - [Design Tokens (Sketch)](https://andreask.design/design-tokens/)
 - [Zeplin JSON export tokens](https://extensions.zeplin.io/berk/zeplin-json-extension)
 
-### Tools
+### Tools
 
 - [Figmagic](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 - [Style Dictionary](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 - [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 - [Theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
 
-### Articles
+### Articles
 
 - [A designer’s guide to the Figma API](https://medium.com/@danhollick/a-designers-guide-to-the-figma-api-64f2785969d8)
 - [Building a Visual Studio Code Theme with Style Dictionary](https://dbanks.design/blog/vs-code-theme-with-style-dictionary/)
@@ -109,12 +109,12 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 
 ## Pattern library
 
-### Styleguides and documentation:
+### Styleguides and documentation:
 
 - [Stencil](https://stenciljs.com/) - Toolchain for building reusable, scalable Design Systems.
 - [Zeroheight](https://zeroheight.com/) - Create beautiful living styleguides and document all your design system resources in one place. _[Learn about this](https://medium.com/zeroheight/zeroheight-3-0-b6643c347596)_.
 
-### Develop isolated components
+### Develop isolated components
 
 - [Pattern Lab](https://patternlab.io/) - Pattern Lab helps you and your team build thoughtful, pattern-driven user interfaces using atomic design principles.
 - [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide.
@@ -135,7 +135,7 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 - [Viewport](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook’s viewport size and orientation.
   More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 
-### Articles
+### Articles
 
 - [Dependency discovery in Storybook](https://medium.com/storybookjs/discover-dependencies-in-storybook-49264d361e21)
 - [Design systems workflow in Storybook](https://blog.hichroma.com/design-systems-in-storybook-2b2be06e394b)
@@ -151,7 +151,7 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 - [Chromatic](https://www.chromaticqa.com/) - Visual testing for React, Angular and Vue. Chromatic ensures consistency in UI components, down to the pixel. Every commit is automatically tested for visual changes in the cloud.
 - [Testing library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
 
-## Books
+## Books
 
 - [Atomic Design](https://atomicdesign.bradfrost.com/) - Atomic design methodology for creating design systems by Brad Frost.
 - [Building Design Systems](https://www.apress.com/gp/book/9781484245132) - Unify user experiences through a shared design language by Sarrah Vesselov and Taurie Davis.
