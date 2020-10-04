@@ -88,9 +88,8 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 
 ### Plugins
 
-- [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
-- [Design Tokens (Sketch)](https://andreask.design/design-tokens/)
-- [Zeplin JSON export tokens](https://extensions.zeplin.io/berk/zeplin-json-extension)
+- [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect) - A Design tokens extractor for devs using Abstract & JavaScript.
+- [Zeplin JSON export tokens](https://extensions.zeplin.io/berk/zeplin-json-extension) - Design tokens Zeplin extension to generate yout tokens in JSON format.
 
 ### Tools
 
