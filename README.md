@@ -3,7 +3,7 @@
 > A curated list of bookmarks, resources and articles about design systems focused on developers.
 
 <p align="center">
-  <a href="https://github.com/klaufel/awesome-design-systems">
+  <a href="https://github.com/klaufel/awesome-design-systems#readme">
     <img src="media/awesome-design-systems-cover.svg" alt="Awesome Design Systems"/>
   </a>
 </p>
@@ -139,7 +139,8 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 - [Source](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
 - [Storyshots](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
 - [Viewport](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
-  More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
+
+More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 
 ### Pattern libraries articles
 
