@@ -1,4 +1,4 @@
-# Awesome design systems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome design systems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A curated list of bookmarks, resources and articles about design systems focused on developers.
 
