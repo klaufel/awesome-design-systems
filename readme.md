@@ -162,15 +162,15 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 
 ## Talks
 
-- [Building Accessible Interfaces: Patterns And Techniques](https://vimeo.com/331530115) - Sara Soueidan. Will be building and refactoring common UI components, and share a couple of techniques she often uses to build with accessibility in mind
-- [Design Processes & Systems in Craft](https://dotall.com/sessions/design-processes-systems-in-craft) - Courtney Bradford. Design shouldn’t be a siloed practice, but a collaborative effort rooted in process. How do we get there? In this session, we’ll look at how we can reframe our design approach to be more human-centric and systems-minded.
-- [Design Systems - The State of the Web](https://www.youtube.com/watch?v=jpmeWXISU5E) - Adam Argyle (Design Advocate at Google) - Conversation about the role of design systems in modern web development and how they can change the dynamics between designer and developer.
-- [Design Systems](https://youtu.be/K8MF3aDg-bM?t=4750) - [Neha Sharma](https://twitter.com/hellonehha) at Women of React conf.
+- [Building Accessible Interfaces: Patterns And Techniques](https://vimeo.com/331530115) - Will be building and refactoring common UI components, and share a couple of techniques she often uses to build with accessibility in mind by Sara Soueidan.
+- [Design Processes & Systems in Craft](https://dotall.com/sessions/design-processes-systems-in-craft) - Design shouldn’t be a siloed practice, but a collaborative effort rooted in process. How do we get there? In this session, we’ll look at how we can reframe our design approach to be more human-centric and systems-minded by Courtney Bradford.
+- [Design Systems - The State of the Web](https://www.youtube.com/watch?v=jpmeWXISU5E) - Conversation about the role of design systems in modern web development and how they can change the dynamics between designer and developer by Adam Argyle (Design Advocate at Google).
+- [Design Systems](https://youtu.be/K8MF3aDg-bM?t=4750) - Women of React conf by [Neha Sharma](https://twitter.com/hellonehha).
 - [How To Build a Design System | UXPin](https://www.youtube.com/watch?v=h0MqkRJdaao) - Will teach you how to build a UX Design System using the UX Pin prototyping & design platform.
-- [Introducing Design Systems Into Chaos](https://youtu.be/FZSi1bK-BRM) - Diana Mounter (Design Systems Lead at GitHub) - Shares practical examples on where to begin to set up a design system, what to prioritize, and how to make a big impact to customers and colleagues, to help you introduce systems that bring order to chaos.
-- [Jina Anne - Designing a Design System](https://youtu.be/7hYOLLO2gc4) - Jina (Lead Designer on the Design Systems team at Salesforce UX) - Will share strategies for how to approach, design and build an effective design system; how to successfully maintain the system to ensure ongoing usefulness.
-- [Level up your Design System with styled-system](https://youtu.be/K8MF3aDg-bM?t=7280) - [Taley'a Mirza](https://twitter.com/TaleyaMirza) at Women of React conf.
-- [Maintaining Design Systems](https://aneventapart.com/news/post/maintaining-design-systems-by-brad-frost-aea-video) - Brad Frost (Front-end designer) - Helps you learn how to keep your system and the products it serves in sync and understand how to maintain and evolve your design system to give your users get the best possible experience.
+- [Introducing Design Systems Into Chaos](https://youtu.be/FZSi1bK-BRM) - Shares practical examples on where to begin to set up a design system, what to prioritize, and how to make a big impact to customers and colleagues, to help you introduce systems that bring order to chaos by Diana Mounter (Design Systems Lead at GitHub).
+- [Jina Anne - Designing a Design System](https://youtu.be/7hYOLLO2gc4) - Will share strategies for how to approach, design and build an effective design system; how to successfully maintain the system to ensure ongoing usefulness by Jina (Lead Designer on the Design Systems team at Salesforce UX).
+- [Level up your Design System with styled-system](https://youtu.be/K8MF3aDg-bM?t=7280) - Women of React conf by [Taley'a Mirza](https://twitter.com/TaleyaMirza).
+- [Maintaining Design Systems](https://aneventapart.com/news/post/maintaining-design-systems-by-brad-frost-aea-video) - Helps you learn how to keep your system and the products it serves in sync and understand how to maintain and evolve your design system to give your users get the best possible experience by Brad Frost (Front-end designer).
 
 ## Contribute
 
