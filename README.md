@@ -1,4 +1,4 @@
-# Awesome design systems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Design Systems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A curated list of bookmarks, resources and articles about design systems focused on developers.
 
@@ -23,19 +23,19 @@ A Design System is an ever evolving collection of reusable components, guided by
 - [GitHub Primer](https://primer.style/) - Open-source it to allow the community to design and build their own projects.
 - [GitLab Design System - Pajamas](https://design.gitlab.com/) - Resources, components, and design guidelines behind GitLab.
 - [Google Material Design](https://material.io/design) - Create intuitive and beautiful products with Material Design.
-- [IBM Carbon](https://www.carbondesignsystem.com/) - Carbon is IBM’s open-source design system for products and experiences.
-- [Shopify Polaris](https://polaris.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
+- [IBM Carbon](https://www.carbondesignsystem.com/) - Carbon is IBM's open-source design system for products and experiences.
+- [Shopify Polaris](https://polaris.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify's merchants.
 
 See more design systems [here](https://github.com/alexpate/awesome-design-systems)!
 
-### Articles
+### Design systems articles
 
 - [A design system governance process](https://bradfrost.com/blog/post/a-design-system-governance-process/)
 - [A guide to collaborating on design systems](https://www.invisionapp.com/inside-design/collaborating-on-design-systems/)
 - [Building a Design System? Start with a map](https://blog.prototypr.io/building-a-design-system-start-with-map-909aa4baf41f)
 - [Building your design system](https://www.designbetter.co/design-systems-handbook/building-design-system)
 - [Design Systems are for People](https://publication.design.systems/design-systems-are-for-people-a484620b6988)
-- [Design Systems vs. Pattern Libraries vs. Style Guides – What’s the Difference?](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
+- [Design Systems vs. Pattern Libraries vs. Style Guides – What's the Difference?](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
 - [How Spotify organises work in Figma to improve collaboration](https://spotify.design/articles/2020-04-20/how-spotify-works-in-figma/)
 - [How to Build Design Systems](https://medium.muz.li/how-to-build-design-systems-3431560f51fb)
 - [What is a Design System – Everything You Need to Know](https://uxmisfit.com/2019/03/26/what-is-a-design-system-everything-you-need-to-know/)
@@ -52,32 +52,32 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 ### Design tools
 
 - [Figma](https://www.figma.com/) - Helps teams create, test, and ship better designs from start to finish (cross-platform).
-- [InVision](https://www.invisionapp.com/) - The digital product design platform powering the world’s best user experiences.
+- [InVision](https://www.invisionapp.com/) - The digital product design platform powering the world's best user experiences.
 - [Sketch](https://www.sketch.com/) - A design toolkit built to help you create your best work from your earliest ideas, through to final artwork (for macOS).
 
 See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
 ### Integrations
 
-- [Abstract](https://www.abstract.com/) - Design collaboration without the chaos (for Sketch and XD on macOS)
+- [Abstract](https://www.abstract.com/) - Design collaboration without the chaos (for Sketch and XD on macOS).
 - [Avocode](https://avocode.com/) - Helps you share design files, discuss changes, and code websites, mobile apps, & newsletters faster.
 - [InVision Design System Manager](https://www.invisionapp.com/design-system-manager) - Powers creative and consistent design at scale with a central place to manage design and coded components.
 - [Zeplin](https://zeplin.io/) - The better way to share, organize and collaborate on designs—built with developers in mind.
 
 ### Accessibility (a11y)
 
-- [Accessibility for developeres](https://www.invisionapp.com/inside-design/accessibility-for-developers/)
+- [Accessibility for developeres](https://www.invisionapp.com/inside-design/accessibility-for-developers/) - 5 simple ways developers can help improve and enforce website accessibility.
 - [Stark](https://www.getstark.co/) - Eempowers you to design with accessibility in mind from conception of brand to fruition of product. Contrast checker, colorblind simulation and color suggestions.
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier. See [resources](https://a11yproject.com/resources/) section.
 
-### Articles
+### Design tools articles
 
 - [Adobe XD vs Sketch vs Figma vs InVision - How to Pick the Best Design Software in 2020](https://www.freecodecamp.org/news/adobe-xd-vs-sketch-vs-figma-vs-invision/)
 
 ## Design tokens
 
 - [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here](https://github.com/design-tokens/community-group)!
-- [DesignTokens.dev](https://www.designtokens.dev/) - Ship your design tokens without managing infrastructure
+- [DesignTokens.dev](https://www.designtokens.dev/) - Ship your design tokens without managing infrastructure.
 - [Diez](https://diez.org/) - Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
 
 ### Plugins
@@ -91,11 +91,11 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 - [Figmagic](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 - [Style Dictionary](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 - [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
-- [Theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens
+- [Theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens.
 
 ### Articles
 
-- [A designer’s guide to the Figma API](https://medium.com/@danhollick/a-designers-guide-to-the-figma-api-64f2785969d8)
+- [A designer's guide to the Figma API](https://medium.com/@danhollick/a-designers-guide-to-the-figma-api-64f2785969d8)
 - [Building a Visual Studio Code Theme with Style Dictionary](https://dbanks.design/blog/vs-code-theme-with-style-dictionary/)
 - [Design tokens with Figma](https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f)
 - [Documenting Design Tokens](https://dbanks.design/blog/documenting-design-tokens/)
@@ -109,7 +109,7 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 
 ## Pattern library
 
-### Styleguides and documentation:
+### Styleguides and documentation
 
 - [Stencil](https://stenciljs.com/) - Toolchain for building reusable, scalable Design Systems.
 - [Zeroheight](https://zeroheight.com/) - Create beautiful living styleguides and document all your design system resources in one place. _[Learn about this](https://medium.com/zeroheight/zeroheight-3-0-b6643c347596)_.
@@ -130,12 +130,12 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 - [Docs](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
 - [Knobs](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
 - [Links](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
-- [Source](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story’s source code to see how it works and paste into your app.
+- [Source](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
 - [Storyshots](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
-- [Viewport](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook’s viewport size and orientation.
+- [Viewport](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
   More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 
-### Articles
+### Pattern libraries articles
 
 - [Dependency discovery in Storybook](https://medium.com/storybookjs/discover-dependencies-in-storybook-49264d361e21)
 - [Design systems workflow in Storybook](https://blog.hichroma.com/design-systems-in-storybook-2b2be06e394b)
@@ -155,15 +155,15 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 
 - [Atomic Design](https://atomicdesign.bradfrost.com/) - Atomic design methodology for creating design systems by Brad Frost.
 - [Building Design Systems](https://www.apress.com/gp/book/9781484245132) - Unify user experiences through a shared design language by Sarrah Vesselov and Taurie Davis.
-- [Design systems](https://www.smashingmagazine.com/design-systems-book/) - A practical guide to creating design languages for digital products by Alla Kholmatova (Smashing Magazine) -
+- [Design systems](https://www.smashingmagazine.com/design-systems-book/) - A practical guide to creating design languages for digital products by Alla Kholmatova (Smashing Magazine).
 - [Front-End Style Guides](https://www.maban.co.uk/projects/front-end-style-guides/) - Creating and maintaining style guides for websites by Anna Debenham.
-- [Frontend Architecture for Design Systems](http://shop.oreilly.com/product/0636920040156.do) - A modern blueprint for scalable and sustainable websites by Micah Godbolt
+- [Frontend Architecture for Design Systems](http://shop.oreilly.com/product/0636920040156.do) - A modern blueprint for scalable and sustainable websites by Micah Godbolt.
 - [Modular Web Design](https://www.amazon.com/Modular-Web-Design-Components-Documentation/dp/0321601351/) - Creating Reusable Components for user experience design and documentation by Nathan Curtis.
 
 ## Talks
 
 - [Building Accessible Interfaces: Patterns And Techniques](https://vimeo.com/331530115) - Will be building and refactoring common UI components, and share a couple of techniques she often uses to build with accessibility in mind by Sara Soueidan.
-- [Design Processes & Systems in Craft](https://dotall.com/sessions/design-processes-systems-in-craft) - Design shouldn’t be a siloed practice, but a collaborative effort rooted in process. How do we get there? In this session, we’ll look at how we can reframe our design approach to be more human-centric and systems-minded by Courtney Bradford.
+- [Design Processes & Systems in Craft](https://dotall.com/sessions/design-processes-systems-in-craft) - Design shouldn't be a siloed practice, but a collaborative effort rooted in process. How do we get there? In this session, we'll look at how we can reframe our design approach to be more human-centric and systems-minded by Courtney Bradford.
 - [Design Systems - The State of the Web](https://www.youtube.com/watch?v=jpmeWXISU5E) - Conversation about the role of design systems in modern web development and how they can change the dynamics between designer and developer by Adam Argyle (Design Advocate at Google).
 - [Design Systems](https://youtu.be/K8MF3aDg-bM?t=4750) - Women of React conf by [Neha Sharma](https://twitter.com/hellonehha).
 - [How To Build a Design System | UXPin](https://www.youtube.com/watch?v=h0MqkRJdaao) - Will teach you how to build a UX Design System using the UX Pin prototyping & design platform.
