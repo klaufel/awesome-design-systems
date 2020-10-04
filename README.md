@@ -2,6 +2,12 @@
 
 > A curated list of bookmarks, resources and articles about design systems focused on developers.
 
+<p align="center">
+  <a href="https://github.com/klaufel/awesome-design-systems">
+    <img src="media/awesome-design-systems-cover.svg" alt="Awesome Design Systems"/>
+  </a>
+</p>
+
 ## Contents
 
 - [Design systems](#design-systems)
