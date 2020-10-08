@@ -73,7 +73,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 ### Accessibility (a11y)
 
 - [Accessibility for developeres](https://www.invisionapp.com/inside-design/accessibility-for-developers/) - 5 simple ways developers can help improve and enforce website accessibility.
-- [Stark](https://www.getstark.co/) - Eempowers you to design with accessibility in mind from conception of brand to fruition of product. Contrast checker, colorblind simulation and color suggestions.
+- [Stark](https://www.getstark.co/) - Empowers you to design with accessibility in mind from conception of brand to fruition of product. Contrast checker, colorblind simulation and color suggestions.
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier. See [resources](https://a11yproject.com/resources/) section.
 
 ### Design tools articles
@@ -89,14 +89,14 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 ### Plugins
 
 - [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect) - A Design tokens extractor for devs using Abstract & JavaScript.
-- [Zeplin JSON export tokens](https://extensions.zeplin.io/berk/zeplin-json-extension) - Design tokens Zeplin extension to generate yout tokens in JSON format.
+- [Zeplin JSON export tokens](https://extensions.zeplin.io/berk/zeplin-json-extension) - Design tokens Zeplin extension to generate your tokens in JSON format.
 
 ### Tools
 
 - [Figmagic](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 - [Style Dictionary](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 - [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
-- [Theo](https://github.com/salesforce-ux/theo) - Theo is a an abstraction for transforming and formatting Design Tokens.
+- [Theo](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
 
 ### Articles
 
