@@ -178,6 +178,6 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 - [Level up your Design System with styled-system](https://youtu.be/K8MF3aDg-bM?t=7280) - Women of React conf by [Taley'a Mirza](https://twitter.com/TaleyaMirza).
 - [Maintaining Design Systems](https://aneventapart.com/news/post/maintaining-design-systems-by-brad-frost-aea-video) - Helps you learn how to keep your system and the products it serves in sync and understand how to maintain and evolve your design system to give your users get the best possible experience by Brad Frost (Front-end designer).
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
