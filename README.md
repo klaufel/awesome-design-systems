@@ -60,6 +60,9 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [Figma](https://www.figma.com/) - Helps teams create, test, and ship better designs from start to finish (cross-platform).
 - [InVision](https://www.invisionapp.com/) - The digital product design platform powering the world's best user experiences.
 - [Sketch](https://www.sketch.com/) - A design toolkit built to help you create your best work from your earliest ideas, through to final artwork (for macOS).
+- [AdobeXD](https://www.adobe.com/products/xd.html) - Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate, and more — it’s all right here, all in one UI/UX design tool.
+- [Marvel](https://marvelapp.com/) - Marvel has everything you need to bring ideas to life and transform how you create digital products with your team. Placing the power of design in everyone’s hands.
+- [UXPin](https://www.uxpin.com/) - Design and manage your entire UX/UI project in one tool.
 
 See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
