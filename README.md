@@ -164,6 +164,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 - [Design systems](https://www.smashingmagazine.com/design-systems-book/) - A practical guide to creating design languages for digital products by Alla Kholmatova (Smashing Magazine).
 - [Front-End Style Guides](https://www.maban.co.uk/projects/front-end-style-guides/) - Creating and maintaining style guides for websites by Anna Debenham.
 - [Frontend Architecture for Design Systems](http://shop.oreilly.com/product/0636920040156.do) - A modern blueprint for scalable and sustainable websites by Micah Godbolt.
+- [Introduction to Design Systems](https://fem-design-systems.netlify.app/) - A practical introduction to design systems by using React, Figma and Storybook by Emma Bostian
 - [Modular Web Design](https://www.amazon.com/Modular-Web-Design-Components-Documentation/dp/0321601351/) - Creating Reusable Components for user experience design and documentation by Nathan Curtis.
 
 ## Talks
