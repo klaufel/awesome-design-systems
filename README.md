@@ -124,6 +124,7 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 
 ### Develop isolated components
 
+- [Backlight](https://backlight.dev/) - Collaborative platform to build Design Systems on the code side. Empower your front-end with an all-in-one solution to manage components. Quick start, speed-up collaboration. 
 - [Pattern Lab](https://patternlab.io/) - Pattern Lab helps you and your team build thoughtful, pattern-driven user interfaces using atomic design principles.
 - [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide.
 - [Storybook](https://storybook.js.org/) - Build bulletproof UI components faster. Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient.
