@@ -54,7 +54,6 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [Design.system](https://design.systems/) - Resources for the design systems community.
 - [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
 
-
 ## UI Design tools
 
 ### Design tools
