@@ -50,6 +50,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 ### More resources
 
 - [Design system checklist](https://designsystemchecklist.com/) - Build better design systems. An open-source checklist to help you plan, build and grow your design system.
+- [Design Systems Survey](https://designsystemssurvey.seesparkbox.com/) - Designers and developers from more than 20 industries tell us about their design systems and their uses.
 - [Design.system](https://design.systems/) - Resources for the design systems community.
 - [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
 
