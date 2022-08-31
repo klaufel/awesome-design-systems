@@ -169,6 +169,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 
 ## Books
 
+- [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview) - Book that gives the insights, skills, and practice needed to ace the toughest system design interview questions by Zhiyong Tan.
 - [Atomic Design](https://atomicdesign.bradfrost.com/) - Atomic design methodology for creating design systems by Brad Frost.
 - [Building Design Systems](https://www.apress.com/gp/book/9781484245132) - Unify user experiences through a shared design language by Sarrah Vesselov and Taurie Davis.
 - [Design systems](https://www.smashingmagazine.com/design-systems-book/) - A practical guide to creating design languages for digital products by Alla Kholmatova (Smashing Magazine).
@@ -176,7 +177,6 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 - [Frontend Architecture for Design Systems](http://shop.oreilly.com/product/0636920040156.do) - A modern blueprint for scalable and sustainable websites by Micah Godbolt.
 - [Introduction to Design Systems](https://fem-design-systems.netlify.app/) - A practical introduction to design systems by using React, Figma and Storybook by Emma Bostian
 - [Modular Web Design](https://www.amazon.com/Modular-Web-Design-Components-Documentation/dp/0321601351/) - Creating Reusable Components for user experience design and documentation by Nathan Curtis.
-- [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview) - Book that gives the insights, skills, and practice needed to ace the toughest system design interview questions by Zhiyong Tan.
 
 ## Talks
 
