@@ -169,6 +169,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 
 ## Books
 
+- [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview) - Book that gives the insights, skills, and practice needed to ace the toughest system design interview questions by Zhiyong Tan.
 - [Atomic Design](https://atomicdesign.bradfrost.com/) - Atomic design methodology for creating design systems by Brad Frost.
 - [Building Design Systems](https://www.apress.com/gp/book/9781484245132) - Unify user experiences through a shared design language by Sarrah Vesselov and Taurie Davis.
 - [Design systems](https://www.smashingmagazine.com/design-systems-book/) - A practical guide to creating design languages for digital products by Alla Kholmatova (Smashing Magazine).
