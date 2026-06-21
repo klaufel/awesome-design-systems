@@ -53,6 +53,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [Design Systems Survey](https://designsystemssurvey.seesparkbox.com/) - Designers and developers from more than 20 industries tell us about their design systems and their uses.
 - [Design.system](https://design.systems/) - Resources for the design systems community.
 - [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
+- [AI Web Design Codex](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 
 ## UI Design tools
 
