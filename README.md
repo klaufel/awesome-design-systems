@@ -42,6 +42,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [Building your design system](https://www.designbetter.co/design-systems-handbook/building-design-system)
 - [Design Systems are for People](https://publication.design.systems/design-systems-are-for-people-a484620b6988)
 - [Design Systems vs. Pattern Libraries vs. Style Guides – What's the Difference?](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
+- [From Figma to Production: The Modern Design-to-Code Pipeline in 2026](https://horizonx.so/blog/figma-to-production-design-to-code-2026)
 - [How Spotify organises work in Figma to improve collaboration](https://spotify.design/articles/2020-04-20/how-spotify-works-in-figma/)
 - [How to Build Design Systems](https://medium.muz.li/how-to-build-design-systems-3431560f51fb)
 - [What is a Design System – Everything You Need to Know](https://uxmisfit.com/2019/03/26/what-is-a-design-system-everything-you-need-to-know/)
