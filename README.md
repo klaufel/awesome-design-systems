@@ -84,6 +84,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier. See [resources](https://a11yproject.com/resources/) section.
 - [InclusiveColors palette creator](https://www.inclusivecolors.com/) - Creates accessible custom Tailwind-style color palettes that pass WCAG contrast checks and can be exported to CSS/Figma/Adobe.
 - [Nutilz Color Shades Generator](https://nutilz.com/color-shades-generator) - Generates a 50-950 tint/shade scale from any hex color and exports it as CSS variables, SCSS, or a Tailwind config.
+- [Color Blindness Simulator](https://colorvisionlabs.com/color-blindness-simulator) - Shows how any image or built-in test scene looks with protan, deutan, or tritan vision at adjustable severity, side by side with the original. Uses the Machado (2009) model, so partial deficiencies can be simulated rather than only the complete forms.
 
 ### Design tools articles
 
