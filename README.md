@@ -91,6 +91,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 
 ## Design tokens
 
+- [Curio](https://designbycurio.com) - Library of 1,000+ design styles published as machine-readable DESIGN.md token specs (color, type, spacing, components) for AI coding agents.
 - [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here](https://github.com/design-tokens/community-group)!
 - [DesignTokens.dev](https://www.designtokens.dev/) - Ship your design tokens without managing infrastructure.
 - [Diez](https://diez.org/) - Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
