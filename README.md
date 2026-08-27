@@ -108,6 +108,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 - [Style Dictionary](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 - [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 - [Theo](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
+- [Designesy](https://www.designesy.org/) - 40-check design-system contract verification engine. Scores any URL against DTCG 2025.10 token conformance, WCAG 2.2 AA, motion, and typography. Includes DTCG token validator, stylelint plugin, and MCP server.
 
 ### Articles
 
@@ -173,6 +174,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 - [Chromatic](https://www.chromaticqa.com/) - Visual testing for React, Angular and Vue. Chromatic ensures consistency in UI components, down to the pixel. Every commit is automatically tested for visual changes in the cloud.
 - [Sherlo](https://sherlo.io/) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [Testing library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
+- [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
 
 ## Books
 
