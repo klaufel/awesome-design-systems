@@ -32,6 +32,10 @@ A Design System is an ever evolving collection of reusable components, guided by
 - [IBM Carbon](https://www.carbondesignsystem.com/) - Carbon is IBM's open-source design system for products and experiences.
 - [Shopify Polaris](https://polaris.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify's merchants.
 
+### Community and nonprofit
+
+- [ForEveryone Berlin Design System](https://design.foreveryone.berlin/) - Open-source design system for a Berlin community nonprofit: W3C DTCG tokens, CSS custom properties, Next.js living docs, governance and a11y specs, WordPress/Elementor Pro integration guides. [Source](https://github.com/Foreveryone-berlin/design-system).
+
 See more design systems [here](https://github.com/alexpate/awesome-design-systems)!
 
 ### Design systems articles
