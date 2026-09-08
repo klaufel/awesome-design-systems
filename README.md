@@ -76,6 +76,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 - [Abstract](https://www.abstract.com/) - Design collaboration without the chaos (for Sketch and XD on macOS).
 - [Avocode](https://avocode.com/) - Helps you share design files, discuss changes, and code websites, mobile apps, & newsletters faster.
 - [InVision Design System Manager](https://www.invisionapp.com/design-system-manager) - Powers creative and consistent design at scale with a central place to manage design and coded components.
+- [Web Import Master](https://www.figma.com/community/plugin/1630132577257927426) - Convert public or private pages from web to Figma designs: styles, variables, auto layout, high resolution images. Free Chrome extension, one-time payment plugin.
 - [Zeplin](https://zeplin.io/) - The better way to share, organize and collaborate on designs—built with developers in mind.
 
 ### Accessibility (a11y)
