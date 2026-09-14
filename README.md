@@ -178,6 +178,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 - [Sherlo](https://sherlo.io/) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [Testing library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
 - [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
+- [pixelpact](https://github.com/jamalkamaladdin/pixelpact) - CLI and MCP server that extracts a visual contract (sizes, spacing, typography, states, animation, design tokens) from a live page or Figma frame, then checks an implementation against it and reports every value that drifted.
 
 ## Books
 
