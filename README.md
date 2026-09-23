@@ -130,6 +130,7 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 ## Coding tools
 
 - [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems. 
+- [ux-skill](https://github.com/Laith0003/ux-skill) — Open-source design linter and design-system engine for AI coding tools: token and anti-pattern checks, a render check for layout drift in LTR and RTL, and 160 brand specs. Offline, MIT.
 
 ## Pattern library
 
