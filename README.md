@@ -176,6 +176,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 
 - [Chromatic](https://www.chromaticqa.com/) - Visual testing for React, Angular and Vue. Chromatic ensures consistency in UI components, down to the pixel. Every commit is automatically tested for visual changes in the cloud.
 - [Sherlo](https://sherlo.io/) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+- [stateofpixel](https://stateofpixel.com) - Catch UI regressions before they merge. Your CI takes the screenshots with Playwright, Storybook or any tool that writes PNGs, and a person approves each change on the pull request. Open source and self-hostable.
 - [Testing library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
 - [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
 
