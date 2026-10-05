@@ -76,6 +76,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 
 - [Abstract](https://www.abstract.com/) - Design collaboration without the chaos (for Sketch and XD on macOS).
 - [Avocode](https://avocode.com/) - Helps you share design files, discuss changes, and code websites, mobile apps, & newsletters faster.
+- [figma-maxxing](https://github.com/thiagoxikota/figma-maxxing) - Agent skills for real Figma files: Plugin API gotchas, checks before and after every write, comments to verified fixes, handoff gate.
 - [InVision Design System Manager](https://www.invisionapp.com/design-system-manager) - Powers creative and consistent design at scale with a central place to manage design and coded components.
 - [Zeplin](https://zeplin.io/) - The better way to share, organize and collaborate on designs—built with developers in mind.
 
