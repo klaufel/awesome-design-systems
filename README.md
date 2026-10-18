@@ -107,6 +107,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 ### Tools
 
 - [CSS Variable Generator](https://alltoolsverse.com/tools/css-variable-generator/) - Generate scoped CSS custom properties with light and dark theme pairs, plus SCSS, Less, and JSON design-token exports.
+- [Design Tokens to Tailwind](https://maniruzzamanjubayer.com/tools/design-tokens-to-tailwind) - Convert DTCG, Figma variables and Tokens Studio JSON into a Tailwind v4 `@theme`, CSS variables, SCSS and TypeScript, in the browser.
 - [Figmagic](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 - [Style Dictionary](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 - [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
