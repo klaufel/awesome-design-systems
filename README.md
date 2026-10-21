@@ -56,6 +56,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
 - [AI Web Design Codex](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 - [Button Hover Specimens](https://jsabutis.github.io/button-interaction-specs/) - Catalogue of 131 button hover mechanisms and 117 press states on one identical button, each with its own markup and code to copy. Same label, same box, same rule, so the interaction is the only variable. No dependencies.
+- [OTF UI](https://otf-kit.dev/components?utm_source=directory&utm_medium=referral&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-21-awesome-design-systems-listing) - Universal design system with 240+ components, screen patterns, and accessible cross-platform primitives for React Native and Expo.
 
 ## UI Design tools
 
