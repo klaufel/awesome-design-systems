@@ -69,6 +69,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [UXPin](https://www.uxpin.com/) - Design and manage your entire UX/UI project in one tool.
 - [Penpot](https://penpot.app) - Penpot is the first Open Source design and prototyping platform meant for cross-domain teams.
 - [Lunacy](https://icons8.com/lunacy) - A free graphic design tool with offline mode, built-in assets (icons, illustrations, photos), and real-time collaboration. Great alternative to Sketch and Figma (macOS, Windows, Linux).
+- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) - A free, local-first interface design studio written in Rust that opens and saves .fig files, renders on the GPU and lets coding agents edit the open file through MCP (macOS; source-available).
 
 See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
