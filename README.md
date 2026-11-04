@@ -112,6 +112,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 - [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 - [Theo](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
 - [Designesy](https://www.designesy.org/) - 40-check design-system contract verification engine. Scores any URL against DTCG 2025.10 token conformance, WCAG 2.2 AA, motion, and typography. Includes DTCG token validator, stylelint plugin, and MCP server.
+- [AINDF](https://github.com/0design/ai-native-design-framework) - Spec for AI-native design systems: tokens, slots and rules agents can discover and validate.
 
 ### Articles
 
