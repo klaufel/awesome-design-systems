@@ -56,6 +56,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
 - [AI Web Design Codex](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 - [Button Hover Specimens](https://jsabutis.github.io/button-interaction-specs/) - Catalogue of 131 button hover mechanisms and 117 press states on one identical button, each with its own markup and code to copy. Same label, same box, same rule, so the interaction is the only variable. No dependencies.
+- [House standard](https://design.inadram.studio/house-standard/) - Catalogue of 103 frontend interaction practices, each with a demo running live in the page that switches between the practice held and the practice broken, and an implementation brief written to be handed to a coding agent. Seventeen of them also ship as a read-only audit plugin.
 
 ## UI Design tools
 
