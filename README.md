@@ -114,6 +114,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 - [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 - [Theo](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
 - [Designesy](https://www.designesy.org/) - 40-check design-system contract verification engine. Scores any URL against DTCG 2025.10 token conformance, WCAG 2.2 AA, motion, and typography. Includes DTCG token validator, stylelint plugin, and MCP server.
+- [Stylasso](https://stylasso.pixlasso.com/?src=gh) - Browser extension that reads the colors (with roles), fonts, type scale and spacing a website renders, and exports them as CSS variables, a Tailwind v4 `@theme`, JSON or DESIGN.md. shadcn/ui and Figma exports are paid.
 
 ### Articles
 
