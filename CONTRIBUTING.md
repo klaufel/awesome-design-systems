@@ -6,11 +6,19 @@ project you agree to abide by its terms.
 
 ---
 
+This list follows the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- The resource is about **design systems** (tokens, pattern libraries, component tooling, documentation, testing of UI systems). Generic design, CSS or colour utilities are out of scope.
+- The resource is established and useful: it has real users, documentation and recent activity. Projects created a few weeks ago, landing pages with no product and link-only sites are not accepted.
+- **Disclose self-promotion** in the PR description if you are the author or maintainer. Self-promotion is fine when disclosed and the resource is genuinely awesome.
+- One resource per pull request, with a short, non-marketing description (no "best", "revolutionary", "#1").
+- Add it to the section that fits; never add the same link twice.
+- Keep the format of the surrounding lines: `- [Name](https://link) - Description ending with a period.`
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- The pull request must pass `awesome-lint` and the link check.
 
 Thank you for your suggestions!
 
