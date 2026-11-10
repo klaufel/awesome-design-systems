@@ -14,6 +14,7 @@
 - [UI Design tools](#ui-design-tools)
 - [Design tokens](#design-tokens)
 - [Pattern library](#pattern-library)
+- [AI and design systems](#ai-and-design-systems)
 - [Testing](#testing)
 - [Books](#books)
 - [Talks](#talks)
@@ -38,6 +39,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 
 - [A design system governance process](https://bradfrost.com/blog/post/a-design-system-governance-process/)
 - [Building a Design System? Start with a map](https://blog.prototypr.io/building-a-design-system-start-with-map-909aa4baf41f)
+- [Design systems and AI: Why MCP servers are the unlock](https://www.figma.com/blog/design-systems-ai-mcp/)
 - [Design Systems are for People](https://publication.design.systems/design-systems-are-for-people-a484620b6988)
 - [Design Systems vs. Pattern Libraries vs. Style Guides – What's the Difference?](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
 - [How to Build Design Systems](https://medium.muz.li/how-to-build-design-systems-3431560f51fb)
@@ -83,12 +85,14 @@ See design tools plugins [here](https://github.com/goabstract/Awesome-Design-Too
 ## Design tokens
 
 - [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here](https://github.com/design-tokens/community-group)!
+- [Design Tokens Format Module 2025.10](https://www.designtokens.org/tr/2025.10/) - First stable version of the Design Tokens Community Group specification, with format, color and resolver modules.
 - [Diez](https://diez.org/) - Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams (no longer maintained).
 - [Design Tokens Validator](https://animaapp.github.io/design-token-validator-site/) - Validate your design tokens against the Design Token Community Group spec.
 
 ### Plugins
 
 - [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect) - A Design tokens extractor for devs using Abstract & JavaScript.
+- [Tokens Studio](https://tokens.studio/) - Manage design tokens in Figma and keep them in sync with your code repository.
 - [Zeplin JSON export tokens](https://extensions.zeplin.io/berk/zeplin-json-extension) - Design tokens Zeplin extension to generate your tokens in JSON format.
 
 ### Tools
@@ -96,6 +100,7 @@ See design tools plugins [here](https://github.com/goabstract/Awesome-Design-Too
 - [Figmagic](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 - [Style Dictionary](https://github.com/style-dictionary/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 - [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
+- [Terrazzo](https://terrazzo.app/) - Generate code for web, mobile and native apps from design tokens JSON in the Design Tokens Community Group format.
 - [Theo](https://github.com/salesforce-ux/theo) - An abstraction for transforming and formatting Design Tokens (archived, superseded by Style Dictionary).
 
 ### Articles
@@ -138,6 +143,20 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 
 More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 
+### Component patterns
+
+- [ARIA Authoring Practices Guide patterns](https://www.w3.org/WAI/ARIA/apg/patterns/) - Reference patterns from the W3C for building accessible components, with keyboard interaction and working examples.
+- [Open UI](https://open-ui.org/) - W3C Community Group that researches how design systems name and build components, and proposes new native HTML controls.
+- [The Component Gallery](https://component.gallery/) - Up-to-date repository of interface components based on examples from real design systems.
+
+### Headless component libraries
+
+- [Ark UI](https://ark-ui.com/) - Unstyled, accessible components for your design system that work in React, Vue, Solid and Svelte.
+- [Base UI](https://base-ui.com/) - Unstyled components for building accessible design systems, from the creators of Radix, Floating UI and Material UI.
+- [Radix Primitives](https://www.radix-ui.com/primitives) - Open-source component library for building high-quality, accessible design systems and web apps.
+- [React Aria](https://react-aria.adobe.com/) - Accessible components and hooks with behavior, internationalization and no imposed styles, by Adobe.
+- [shadcn/ui](https://ui.shadcn.com/) - Composable, accessible components you copy into your codebase and own, distributed through a registry.
+
 ### Pattern libraries articles
 
 - [Dependency discovery in Storybook](https://medium.com/storybookjs/discover-dependencies-in-storybook-49264d361e21)
@@ -146,6 +165,16 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 - [How packaging makes it dead simple to share UI components](https://www.chromatic.com/blog/how-packaging-makes-it-dead-simple-to-share-ui-components/)
 - [Storybook design system](https://github.com/storybookjs/design-system)
 - [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a)
+
+## AI and design systems
+
+Tools and formats that make a design system readable by coding agents.
+
+- [DESIGN.md](https://github.com/google-labs-code/design.md) - Format specification for describing a visual identity and design system to coding agents.
+- [Figma Code Connect](https://github.com/figma/code-connect) - Connects design system components in code with their counterparts in Figma, so developers and agents get real snippets.
+- [Figma Console MCP](https://github.com/southleft/figma-console-mcp) - MCP server that connects AI assistants to Figma for design system extraction, creation and debugging.
+- [Figma MCP server](https://developers.figma.com/docs/figma-mcp-server/) - Official server that gives AI agents the design context of your Figma files to generate code, and lets them write back to the canvas.
+- [Storybook MCP addon](https://storybook.js.org/addons/@storybook/addon-mcp) - Helps agents write and test stories for your UI components.
 
 ## Testing
 
