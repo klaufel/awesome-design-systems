@@ -180,7 +180,7 @@ Tools and formats that make a design system readable by coding agents.
 
 ### Unit & Regression test
 
-- [Buddy Visual Tests](https://buddy.works/docs/tests/visual-tests/storybook) - Visual regression testing for a built Storybook. `bdy tests visual upload` renders every story in the browsers and screen sizes set for the suite, compares them with the approved baseline and hosts a Storybook for each tested version.
+- [Buddy Visual Tests](https://buddy.works/docs/tests/visual-tests/storybook) - Visual regression testing from Buddy.Works for a built Storybook. `bdy tests visual upload` renders every story in the browsers and screen sizes set for the suite, compares them with the approved baseline and hosts a Storybook for each tested version.
 - [Chromatic](https://www.chromatic.com/) - Visual testing for React, Angular and Vue. Chromatic ensures consistency in UI components, down to the pixel. Every commit is automatically tested for visual changes in the cloud.
 - [Sherlo](https://sherlo.io/) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [Testing library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
