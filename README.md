@@ -64,6 +64,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [UXPin](https://www.uxpin.com/) - Design and manage your entire UX/UI project in one tool.
 - [Penpot](https://penpot.app/) - The first Open Source design and prototyping platform meant for cross-domain teams.
 - [Lunacy](https://icons8.com/lunacy) - A free graphic design tool with offline mode, built-in assets (icons, illustrations, photos), and real-time collaboration. Great alternative to Sketch and Figma (macOS, Windows, Linux).
+- [Brilliant](https://brilliant.design/) - Vector design tool with components, auto layout and a plain-text design token language, editable by hand and by AI agents over MCP (macOS, Windows and web).
 
 See design tools plugins [here](https://github.com/goabstract/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
