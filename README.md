@@ -174,7 +174,7 @@ Tools and formats that make a design system readable by coding agents.
 - [Figma Code Connect](https://github.com/figma/code-connect) - Connects design system components in code with their counterparts in Figma, so developers and agents get real snippets.
 - [Figma Console MCP](https://github.com/southleft/figma-console-mcp) - MCP server that connects AI assistants to Figma for design system extraction, creation and debugging.
 - [Figma MCP server](https://developers.figma.com/docs/figma-mcp-server/) - Official server that gives AI agents the design context of your Figma files to generate code, and lets them write back to the canvas.
-- [NDS IQ](https://mazin-musleh.github.io/NDS-vanilla/guides/integration-quality.html) - Versioned rules that guide coding agents building pages with an open-source implementation of Saudi Arabia's National Design System.
+- [NDS IQ](https://ndsvanilla.dev/guides/integration-quality.html) - Versioned rules that guide coding agents building pages with an open-source implementation of Saudi Arabia's National Design System.
 - [Storybook MCP addon](https://storybook.js.org/addons/@storybook/addon-mcp) - Helps agents write and test stories for your UI components.
 
 ## Testing
