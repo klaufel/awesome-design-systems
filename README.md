@@ -52,6 +52,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [Design Systems Survey](https://designsystemssurvey.seesparkbox.com/) - Designers and developers from more than 20 industries tell us about their design systems and their uses.
 - [Design.system](https://www.design.systems/) - Resources for the design systems community.
 - [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 ## UI Design tools
 
