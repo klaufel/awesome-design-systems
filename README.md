@@ -155,6 +155,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 - [Base UI](https://base-ui.com/) - Unstyled components for building accessible design systems, from the creators of Radix, Floating UI and Material UI.
 - [Radix Primitives](https://www.radix-ui.com/primitives) - Open-source component library for building high-quality, accessible design systems and web apps.
 - [React Aria](https://react-aria.adobe.com/) - Accessible components and hooks with behavior, internationalization and no imposed styles, by Adobe.
+- [ReUI](https://reui.io/?utm_source=github&utm_medium=community&utm_campaign=reui-nov26) - Free shadcn/ui components and copy-paste examples, plus custom ReUI primitives, forever.
 - [shadcn/ui](https://ui.shadcn.com/) - Composable, accessible components you copy into your codebase and own, distributed through a registry.
 
 ### Pattern libraries articles
